@@ -70,4 +70,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wueestry&show_icons=true&locale=en&theme=onedark" alt="wueestry" /></p>
 
-<p><a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=wueestry&theme=onedark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></p>
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=wueestry&theme=onedark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
