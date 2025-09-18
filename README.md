@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A Control and Robotics Engineer from Switzerland</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/wueestry/wueestry/main/wueestry-banner.png" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wueestry&label=Profile%20views&color=0e75b6&style=flat" alt="wueestry" /> </p>
+# Hi 👋, I'm Ryan
+## A Software Engineer from Switzerland
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wueestry&theme=onedark" alt="wueestry" /></a> </p>
+### Socials:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ryan-wueest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-wueest" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.github.com/wueestry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/wueestry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ryan-wueest" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 <table>
   <tr>
@@ -65,9 +62,11 @@
   </tr>
 </table>
 
+### GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wueestry&theme=onedark&show_icons=true&locale=en&layout=compact" alt="wueestry" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/wueestry/wueestry/main/github-metrics.svg" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wueestry&show_icons=true&locale=en&theme=onedark" alt="wueestry" /></p>
+### My Personal Websites:
 
-[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=wueestry&theme=onedark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  - Portfolio   : <http://wueestry.github.io/>
+  - My Second Brain   : <http://wueestry.github.io/my-second-brain>
