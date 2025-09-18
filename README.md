@@ -1,7 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/wueestry/wueestry/main/wueestry-banner.png" /></p>
 
 # Hi 👋, I'm Ryan
-## A Software Engineer from Switzerland
+
+### GitHub Stats:
+
+<p align="left"><img src="https://raw.githubusercontent.com/wueestry/wueestry/main/github-metrics.svg" /></p>
 
 ### Socials:
 
@@ -62,11 +65,7 @@
   </tr>
 </table>
 
-### GitHub Stats:
-
-<p align="left"><img src="https://raw.githubusercontent.com/wueestry/wueestry/main/github-metrics.svg" /></p>
-
 ### My Personal Websites:
 
-  - Portfolio   : <http://wueestry.github.io/>
+  - Portfolio   : <http://wueestry.github.io>
   - My Second Brain   : <http://wueestry.github.io/my-second-brain>
