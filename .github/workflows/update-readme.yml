@@ -38,7 +38,7 @@ jobs:
           # Options
           user: wueestry
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: Europe/Zurich
           plugin_achievements: yes
           plugin_achievements_display: detailed
